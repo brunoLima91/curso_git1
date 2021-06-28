@@ -1,6 +1,4 @@
 Teste repo 1
-<<<<<<< HEAD
 Será que vai dar conflito?
-=======
 Aqui eu vou testar o merge ta ligado?
->>>>>>> master
+aqui vou testar o stash ta ligado?
